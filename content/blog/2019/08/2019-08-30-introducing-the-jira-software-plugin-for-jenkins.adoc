@@ -2,7 +2,7 @@
 layout: post
 title: "Introducing the Jira Software plugin for Jenkins"
 tags:
-- Jira
+- jira
 - plugin
 - pipeline
 author: rafalmyslek
